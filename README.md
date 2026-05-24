@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en" class="scroll-smooth">
 <head>
   <meta charset="UTF-8">
@@ -85,7 +85,7 @@
   <!-- Service Areas -->
   <section id="areas" class="py-20 bg-green-50">
     <div class="max-w-7xl mx-auto px-6">
-      <h2 class="text-4xl font-bold text-center mb-10">Proudly Serving East Oahu</h2>
+      <h2 class="text-4xl font-bold text-center mb-10">Proudly Serving South Oahu</h2>
       <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center">
         <div class="bg-white p-6 rounded-xl shadow">Honolulu</div>
         <div class="bg-white p-6 rounded-xl shadow">Diamond Head</div>
